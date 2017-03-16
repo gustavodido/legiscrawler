@@ -1,0 +1,84 @@
+{
+  "termos": [
+    {
+      "termo": "cofins"
+    }
+  ],
+  "tipoPesquisa": "R",
+  "bases": [
+    {
+      "codigo": 2,
+      "descricao": "Legislação Federal",
+      "urlDetalhaDocumento": "http://legis.senado.leg.br/legislacao/DetalhaDocumento.action?id=",
+      "sigla": "NJUR",
+      "campos": [],
+      "qtdeTiposDocumentos": 0
+    }
+  ],
+  "tipos": [
+    {
+      "codigo": 26,
+      "descricao": "Decreto",
+      "sigla": "DEC",
+      "listaReduzida": true,
+      "selecionado": true
+    },
+    {
+      "codigo": 31,
+      "descricao": "Decreto Legislativo",
+      "sigla": "DLG",
+      "listaReduzida": true,
+      "selecionado": true
+    },
+    {
+      "codigo": 27,
+      "descricao": "Decreto Lei",
+      "sigla": "DEL",
+      "listaReduzida": true,
+      "selecionado": true
+    },
+    {
+      "codigo": 34,
+      "descricao": "Emenda Constitucional",
+      "sigla": "EMC",
+      "listaReduzida": true,
+      "selecionado": true
+    },
+    {
+      "codigo": 42,
+      "descricao": "Lei Complementar",
+      "sigla": "LCP",
+      "listaReduzida": true,
+      "selecionado": true
+    },
+    {
+      "codigo": 45,
+      "descricao": "Lei Ordinária",
+      "sigla": "LEI",
+      "listaReduzida": true,
+      "selecionado": true
+    },
+    {
+      "codigo": 52,
+      "descricao": "Medida Provisória",
+      "sigla": "MPV",
+      "listaReduzida": true,
+      "selecionado": true
+    },
+    {
+      "codigo": 72,
+      "descricao": "Resolução do Senado Federal",
+      "sigla": "RSF",
+      "listaReduzida": true,
+      "selecionado": true
+    }
+  ],
+  "filtroData": {
+    "operadorRelacional": "=",
+    "inicio": null,
+    "fim": null
+  },
+  "pagina": 1,
+  "qtdeDocsPagina": 10000,
+  "consultaUsuario": "{\"rota\":\"/legislacaoTextual\"}"
+}

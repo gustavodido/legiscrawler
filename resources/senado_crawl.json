@@ -1,0 +1,16 @@
+{
+  "idConsulta": "",
+  "termos": [
+    {
+      "termo": "dummy"
+    }
+  ],
+  "pagina": 1,
+  "qtdeDocsPagina": 10000,
+  "baseCampos": "0",
+  "formato": "completo",
+  "camposOrdenacao": [],
+  "basesVisualizacao": [],
+  "camposVisualizacao": [],
+  "tipoLabel": "tradicional"
+}
